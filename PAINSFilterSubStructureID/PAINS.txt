@@ -1,0 +1,66 @@
+c1cc(O)c(O)cc1-c(c(O)c2=O)oc(c23)cc(O)cc3O	2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-4H-chromen-4-one
+c1ccccc1-c(cc2=O)oc(c23)cccc3	2-phenyl-4H-chromen-4-one
+O=S([O-])(=O)c(cc1)ccc1N(C2=O)N=C(C([O-])=O)C2/N=N/c3ccc(S(=O)([O-])=O)cc3	(E)-5-oxo-1-(4-sulfonatophenyl)-4-((4-sulfonatophenyl)diazenyl)-4,5-dihydro-1H-pyrazole-3-carboxylate
+O=c1ccoc(c12)cccc2	4H-chromen-4-one
+c1cccc(C(O2)=O)c1C23c4c(cc(O)cc4)Oc5c3ccc(c5)O	3',6'-dihydroxy-3H-spiro[isobenzofuran-1,9'-xanthen]-3-one
+CN(C)c1ccc(cc1)/N=N/c2ccc(S(=O)(=O)[O-])cc2.[Na+]	sodium (E)-4-((4-(dimethylamino)phenyl)diazenyl)benzenesulfonate
+CCN(CC)c(c1)ccc(c12)c(-c3c(S(=O)(=O)[O-])cc(cc3)S(=O)(=O)O)c4c(o2)cc(cc4)=[N+](CC)CC	2-(6-(diethylamino)-3-(diethyliminio)-3H-xanthen-9-yl)-5-sulfobenzenesulfonate
+Nc1cc(S(=O)(=O)[O-])cc(c12)cc(S(=O)(=O)[O-])c(c2O)\N=N\c(c3C)ccc(c3)-c4cc(C)c(cc4)/N=N/c(c5O)c(S(=O)(=O)[O-])cc(c56)cc(S(=O)(=O)[O-])cc6N.[Na+].[Na+].[Na+].[Na+]	sodium 3,3'-((1E,1'E)-(3,3'-dimethyl-[1,1'-biphenyl]-4,4'-diyl)bis(diazene-2,1-diyl))bis(5-amino-4-hydroxynaphthalene-2,7-disulfonate)
+CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccccc3.[Cl-]	N-(4-((4-(dimethylamino)phenyl)(phenyl)methylene)cyclohexa-2,5-dien-1-ylidene)-N-methylmethanaminium chloride
+Nc1c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c(c12)ccc(c2O)\N=N\c(c3OC)ccc(c3)-c4cc(OC)c(cc4)/N=N/c(c5O)ccc(c56)c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c6N	6,6'-((1E,1'E)-(3,3'-dimethoxy-[1,1'-biphenyl]-4,4'-diyl)bis(diazene-2,1-diyl))bis(4-amino-5-hydroxynaphthalene-1,3-disulfonate)
+N12CCN(CC1)CC2	1,4-diazabicyclo[2.2.2]octane
+[N-]=[N+]=C1C=CC=CC1	5-diazocyclohexa-1,3-diene
+c1ccccc1/N=N/c2ccccc2	(E)-1,2-diphenyldiazene
+O=C1NC(=S)SC1=C	5-methylene-2-thioxothiazolidin-4-one
+O=C1NC(=S)OC1=C	5-methylene-2-thioxooxazolidin-4-one
+O=C1NC(=O)OC1=C	5-methyleneoxazolidine-2,4-dione
+O=C1NC(=S)SC1=C	5-methylene-2-thioxothiazolidin-4-one
+NCc1ccccc1O	2-(aminomethyl)phenol
+N\N=C\c1ccccc1O	(E)-2-(hydrazineylidenemethyl)phenol
+S=C1NC(=O)C(=C)C(=O)N1	5-methylene-2-thioxodihydropyrimidine-4,6(1H,5H)-dione
+O=C1NC(=O)C(=C)C(=O)N1	5-methylenepyrimidine-2,4,6(1H,3H,5H)-trione
+C=C1C=NNC1=O	4-methylene-2,4-dihydro-3H-pyrazol-3-one
+C=C1C=NOC1=O	4-methyleneisoxazol-5(4H)-one
+C=C1C=NOC1=N	4-methyleneisoxazol-5(4H)-imine
+O=C1C(=C)S=CN1	5-methylene-3,5-dihydro-4H-1l4-thiazol-4-one
+O=C1C(=N)S=CN1	5-imino-3,5-dihydro-4H-1l4-thiazol-4-one
+O=C1NNC(=O)C1=C	4-methylenepyrazolidine-3,5-dione
+c1cccc(NC2)c1C(C23)C=CC3	3a,4,5,9b-tetrahydro-3H-cyclopenta[c]quinoline
+C1CCNc(c12)cccc2	1,2,3,4-tetrahydroquinoline
+c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole
+Cn1c(C)ccc1-c2ccccc2	1,2-dimethyl-5-phenyl-1H-pyrrole
+c1ccc(S(=O)(=O)N)c(c12)non2	benzo[c][1,2,5]oxadiazole-4-sulfonamide
+c1ccc(S(=O)(=O)N)c(c12)nsn2	benzo[c][1,2,5]thiadiazole-4-sulfonamide
+Nc1sccc1C(=O)C	1-(2-aminothiophen-3-yl)ethan-1-one
+Oc1ccccc1O	pyrocatechol
+O=C1C=CC(=O)C=C1	benzoquinone
+CN=NC	1,2-dimethyldiazene
+S=c1[nH]cccc1C#N	2-thioxo-1,2-dihydropyridine-3-carbonitrile
+C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one
+c1cccc(c12)c(c([nH]2)C(=O)O)CC(=O)N	3-(2-amino-2-oxoethyl)-1H-indole-2-carboxylic acid
+c1cccc(c12)C(=O)C=CC2	naphthalen-1(4H)-one
+c1cccc(c12)C(=O)C=CC2=O	naphthalene-1,4-dione
+c1cccc(c12)cc3c(c2)cccc3	anthracene
+c1cccc(c12)C(=O)C3C(C2=O)C=CC=C3	4a,9a-dihydroanthracene-9,10-dione
+c1cccc(c12)cccc2	naphthalene
+o1cccc1	furan
+C=Cc1occc1	2-vinylfuran
+c1cc(C)[n+](C)c(c12)ccc3c2ccc(C)[n+]3C	3,4,7,8-tetramethyl-4,7-phenanthroline-4,7-diium
+c1cccc(c12)N(CC)/C(C=C2)=C\C=C/C(N3CC)C=Cc(c34)cccc4	(Z)-1-ethyl-2-((Z)-3-(1-ethyl-1,2-dihydroquinolin-2-yl)allylidene)-1,2-dihydroquinoline
+c1ccccc1/C=C(\C)c(cc2)cc(c23)CCN3C	(E)-1-methyl-5-(1-phenylprop-1-en-2-yl)indoline
+CCN(CC)CC	triethylamine
+CCCCCCCCC	nonane
+O=C1C(=O)Nc(c12)cccc2	indoline-2,3-dione
+O=C1C(=N)Sc(c12)cccc2	2-iminobenzo[b]thiophen-3(2H)-one
+CC1(C)OC(=O)CC(O1)=O	2,2-dimethyl-1,3-dioxane-4,6-dione
+c1cccc(c12)N=CCC=N2	3H-benzo[b][1,4]diazepine
+NC(=S)N	thiourea
+n1snc(c12)cccc2S(=O)(=O)N(C)c3ccc(Br)cc3	N-(4-bromophenyl)-N-methylbenzo[c][1,2,5]thiadiazole-4-sulfonamide
+Cn1ccc(c12)c3c(n(C)cc3)c(OC)c2OC	4,5-dimethoxy-3,6-dimethyl-3,6-dihydropyrrolo[3,2-e]indole
+C1CC1Cn(cc2)c(c23)ccc(c3)N	1-(cyclopropylmethyl)-1H-indol-5-amine
+s1c(=O)oc(c12)c(OC)cc(c2)/C=C(/C3=O)Sc(c34)cccc4	(Z)-7-methoxy-5-((3-oxobenzo[b]thiophen-2(3H)-ylidene)methyl)benzo[d][1,3]oxathiol-2-one
+C1C=[O]C(CC)=[C]2=C(C)N(C)C(c3c(C4=O)cccc3)=C4[C]=12c5c(F)cccc5	Unable to generate value
+c1ccc(c12)ccccc2	azulene
+c1cccc(c12)C(=O)C(=C\O)\c3c2cccc3	(E)-10-(hydroxymethylene)phenanthren-9(10H)-one
+c1cccc(c12)cc3c(c2)[nH]cn3	1H-naphtho[2,3-d]imidazole
+O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione

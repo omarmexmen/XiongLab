@@ -1,0 +1,1090 @@
+From compound 7 (SMILES: [n+]1(C)c(ccc(c2)c1ccc2N(C)C)\C=C/c(cc(n3c4ccccc4)C)c3C.[n+]5(C)c(ccc(cc6N(C)C)c5cc6)\C=C/c(cc(n7c8ccccc8)C)c7C.c(C(=O)[O-])(cc(cccc9)c9c%10Cc(c%11c(cccc%11)cc%12C(=O)[O-])c%12O)c%10O):
+  PAIN scaffold 30 (SMILES: c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole) (Exact scaffold found): 0.197183
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.101449
+
+From compound 12 (SMILES: CCCCc1oc2ccc(NS(C)(=O)=O)cc2c1C(=O)c1ccc(OCCCN(CCCC)CCCC)cc1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.031250
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.081967
+
+From compound 13 (SMILES: [C@@](O)(C[C@@H](O)C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)C1)(C[C@@H]2O)O[C@@]([C@@H]2C(O)=O)([H])C[C@H](\C=C\C=C\C=C\C=C\C=C\C=C\C=C\[C@H](C)[C@@H](O)[C@@H](C)[C@H](C)OC1=O)O[C@@H]3O[C@H](C)[C@H]([C@H](N)[C@@H]3O)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.036585
+
+From compound 14 (SMILES: [n+](C)(c1)c2c(ccc(cc(OCO3)c3c4)c24)c(c15)ccc(OC)c5OC.[Cl-]):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.062500
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.086957
+
+From compound 17 (SMILES: C(O)(CC(O)CC(O)CC(O)CC(O)CC(=O)CC(O)CC1=O)(CC2O)OC(C2C(OC)=O)CC(\C=C\C=C\C=C\C=C\C=C\C=C\C=C\C(C)C(C(C)CCC(O)CC(=O)c3ccc(cc3)NC)O1)O[C@@H]4O[C@H](C)[C@H]([C@H](N)[C@@H]4O)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.029412
+
+From compound 18 (SMILES: C(CC\C=C\C[C@@H](O)[C@H](O)[C@@](C(=O)O)(N)CO)CCCC(=O)CCCCCC):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.190476
+
+From compound 21 (SMILES: [C@@]1([H])(C[C@@H](C)C[C@H](C)C1=O)[C@H](O)CC(CC2=O)CC(N2)=O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.048780
+
+From compound 23 (SMILES: Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.222222
+
+From compound 25 (SMILES: c1c(N(C)C)ccc(C(=C2C=CC(=[N+](C)C)C=C2)c3ccc(N(C)C)cc3)c1.[Cl-]):
+  PAIN scaffold 9 (SMILES: CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccccc3.[Cl-]	N-(4-((4-(dimethylamino)phenyl)(phenyl)methylene)cyclohexa-2,5-dien-1-ylidene)-N-methylmethanaminium chloride) (Exact scaffold found): 0.875000
+
+From compound 35 (SMILES: O(CCCCCCCCCCCCCCCC)P([O-])(=O)OCC[N+](C)(C)C):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.285714
+
+From compound 38 (SMILES: [N+](C)(C)(CCCCCCCCCCCCC)Cc1ccccc1.[Cl-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.296296
+
+From compound 42 (SMILES: [n+](C)(c1)c2c(c(ccc(OCO3)c34)c14)ccc(cc(c5c6)OCO5)c26.[Cl-]):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.068182
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.095238
+
+From compound 45 (SMILES: COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=C3C=C3OCOC3=C2)=C1OC):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.063830
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.088889
+
+From compound 48 (SMILES: [C@]12([C@]34[C@@](CC[C@@]1(C)[H])([C@]([C@H](O[C@@](O[C@@](CC2)(OO3)C)4[H])OC(=O)CCC(O)=O)([H])C)[H])[H]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.035714
+
+From compound 50 (SMILES: O=C(O)c1ccc2cc(-c3ccc(O)c(C45CC6CC(CC(C6)C4)C5)c3)ccc2c1):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.097561
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.000000
+
+From compound 53 (SMILES: CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1.O=C(O)/C=C\C(=O)O.O=C(O)/C=C\C(=O)O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.036364
+
+From compound 54 (SMILES: CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.043478
+
+From compound 56 (SMILES: [H]OC(\C=C/C(O[H])=O)=O.CSc1ccc2c(C(N3CCN(C)CC3)Cc4c(cccc4)S2)c1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.017857
+
+From compound 58 (SMILES: CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.040000
+
+From compound 62 (SMILES: [n+](C)(c1)c2c(ccc(cc(c3c4)OCO3)c24)c(c15)ccc(OCO6)c56.S(O)(=O)(=O)[O-]):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.081633
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.083333
+
+From compound 64 (SMILES: O=C1N([Se]C2=CC=CC=C12)C1=CC=CC=C1):
+  PAIN scaffold 30 (SMILES: c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole): 0.312500
+
+From compound 66 (SMILES: CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1.O=C(O)/C=C\C(=O)O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.036364
+
+From compound 67 (SMILES: CCSc1ccc2c(c1)N(CCCN1CCN(C)CC1)c1ccccc1S2.O=C(O)CC(O)C(=O)O.O=C(O)CC(O)C(=O)O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.047619
+
+From compound 68 (SMILES: OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.019231
+
+From compound 71 (SMILES: c1cnc2c(c1)ccc1cccnc12):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene): 0.333333
+
+From compound 74 (SMILES: CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1.O=C(O)CC(O)(CC(=O)O)C(=O)O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.142857
+
+From compound 76 (SMILES: CN1C(=O)[C@]23CC4=CC=C[C@H](O)[C@H]4N2C(=O)[C@@]1(CO)SS3):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.039216
+
+From compound 77 (SMILES: [H][C@]12CC3=C(NC4=CC=CC=C34)[C@]1(C)[C@@]1(C)CC[C@]3([H])O[C@@H](C(=O)C=C3[C@]1(O)CC2)C(C)(C)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.030303
+
+From compound 84 (SMILES: OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.020833
+
+From compound 87 (SMILES: CCN(CC)CCN(Cc1ccc(-c2ccc(C(F)(F)F)cc2)cc1)C(=O)Cn1c(SCc2ccc(F)cc2)nc(=O)c2c1CCC2):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.098592
+
+From compound 88 (SMILES: CCN(CC)CCOc1ccc(/C(=C(/Cl)c2ccccc2)c2ccccc2)cc1.O=C(O)CC(O)(CC(=O)O)C(=O)O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.142857
+
+From compound 89 (SMILES: C([N+](CC)(CC)C)COC(=O)c1ccc(NC(=O)c2ccccc2OCCCCCCCC)cc1.[Br-]):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.155172
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.054545
+
+From compound 94 (SMILES: CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1.Cl):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.266667
+
+From compound 99 (SMILES: c1ccc(CN(CCN(Cc2ccccn2)Cc2ccccn2)Cc2ccccn2)nc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.111111
+
+From compound 100 (SMILES: CC(=O)/C=C1\C(=O)N(C)c2ccccc21):
+  PAIN scaffold 64 (SMILES: c1cccc(c12)C(=O)C(=C\O)\c3c2cccc3	(E)-10-(hydroxymethylene)phenanthren-9(10H)-one): 0.351351
+
+From compound 103 (SMILES: [N+](C)(C)(C)CCCCCCCCCCCCCCCC.[Br-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.500000
+
+From compound 104 (SMILES: [n+]1(CCCCCCCCCC[n+]2c(C)cc(c(cccc3)c23)N)c(C)cc(c(cccc4)c14)N.[Cl-].[Cl-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.114286
+
+From compound 108 (SMILES: O=C(C1CCCCCC)O[C@H](C)[C@H](NC(C2=C(O)C(NC([H])=O)=CC=C2)=O)C(O[C@@H](C)[C@@H]1OC(CC(C)C)=O)=O):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.106667
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.121212
+
+From compound 110 (SMILES: [C@H](CO)(N)[C@H](CCCCCCCCCCCCCCC)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.347826
+
+From compound 111 (SMILES: O[C@@H]([C@H](CO)N(C)C)/C=C/CCCCCCCCCCCCC):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.266667
+
+From compound 113 (SMILES: [I+]1c(cccc2)c2c3c1cccc3.[Cl-]):
+  PAIN scaffold 42 (SMILES: c1cccc(c12)C(=O)C=CC2=O	naphthalene-1,4-dione): 0.318182
+
+From compound 114 (SMILES: O=c1oc(Cl)c(Cl)c2ccccc12):
+  PAIN scaffold 4 (SMILES: O=c1ccoc(c12)cccc2	4H-chromen-4-one): 0.343750
+
+From compound 115 (SMILES: CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.275862
+
+From compound 116 (SMILES: [C@@]12(O[C@@]3([C@]4([C@@](CC1)([C@H](CC[C@]4([C@@H](C(O3)=O)C)[H])C)[H])OO2)[H])C):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.022222
+
+From compound 119 (SMILES: [C@@H]1(C)OC(=O)C[C@H](O)C[C@H](O)CC[C@@H](O)[C@H](O)C[C@H](O)C[C@](O)(O[C@H]2C[C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@H](N)[C@@H]3O)C=CC=CC=CC=CC=CC=CC=C[C@H](C)[C@@H](O)[C@H]1C)C[C@H](O)[C@@H]2C(=O)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.036585
+
+From compound 120 (SMILES: N[C@H](Cc(ccc(c1Cl)Cl)c1)C(N(Cc2c(cccc2)NC3)CCN(Cc4ccccc4)CC3)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.015625
+
+From compound 121 (SMILES: O=C1C=C2C(C(C)=C1O)=CC=C3[C@]2(CCC4([C@@H]5C[C@@](CC[C@@]5(CC[C@]34C)C)([C@@](O)=O)C)C)C):
+  PAIN scaffold 39 (SMILES: C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one) (Exact scaffold found): 0.066667
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.016667
+
+From compound 122 (SMILES: N[C@@H](Cc(ccc(c1Cl)Cl)c1)C(N(Cc2c(cccc2)NC3)CCN(Cc4ccccc4)CC3)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.015625
+
+From compound 125 (SMILES: CN1CC(=Cc2ccccn2)C(=O)/C(=C/c2ccccn2)C1):
+  PAIN scaffold 39 (SMILES: C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one) (Exact scaffold found): 0.076923
+
+From compound 126 (SMILES: O=C(c1ccc(F)cc1)N1CCN(c2nc3ccccc3n3cccc23)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.000000
+
+From compound 127 (SMILES: CN1CCC(C(=O)N2CCC3(CCCCc4ccccc4OCCN(Cc4ccccc4)C3)CC2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.046875
+
+From compound 128 (SMILES: CN(C)CCOc1cccc(C(=O)N2CCC3(CCCCc4ccccc4OCCN(Cc4ccccc4)C3)CC2)c1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.040000
+
+From compound 129 (SMILES: CC(C)CN1CCOc2ccccc2CCCCC2(CCN(C(=O)c3ccc(N)nc3)CC2)C1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.043478
+
+From compound 130 (SMILES: O=C(c1cccc(OCCN2CCCCC2)c1)N1CCN(Cc2ccccc2)CCCNc2ccc(Br)cc2C1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.013889
+
+From compound 131 (SMILES: CN(C)CCOc1cccc(C(=O)N2CCN(Cc3ccccc3)CCCNc3ccc(Br)cc3C2)c1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.041667
+
+From compound 134 (SMILES: CC1CCN(C(=O)/C=C\c2c(Cl)nc3sccn23)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.020000
+
+From compound 135 (SMILES: O=C(C=C3)NC(N3[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)[C@H](O)C[C@@H]1[C@H](O)[C@H](O)[C@@H](NC(/C=C/CCCCCCCCCCC(C)C)=O)[C@H](OC4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4NC(C)=O)O1)=O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.048193
+
+From compound 138 (SMILES: [H]C(O)(CC1OC(OC2OC(CO)C(O)C(O)C2NC(C)=O)C(NC(=O)\C=C/CC(C)C)C(O)C1O)C1OC([H])(N2C=CC(=O)NC2=O)C([H])(O)C1([H])O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.025316
+
+From compound 139 (SMILES: NC[C@]1([C@@]2([H])[C@](c(c3CC2)ccc(C(C)C)c3)(C)CCC1)C.Cl):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.040816
+
+From compound 142 (SMILES: COc1cccc(-n2c(C)cc(CN)c2C)c1):
+  PAIN scaffold 30 (SMILES: c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole) (Exact scaffold found): 0.282051
+
+From compound 146 (SMILES: c1(C(=O)N(CC2)CCN2C)[nH]c(c3c1Sc(cc4)ccc4Cl)cc(cc3)C):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.018182
+
+From compound 147 (SMILES: CN(C)CCCOc1cccc(C(=O)N2CCC3(CCCCc4ccccc4OCCN(Cc4ccccn4)C3)CC2)c1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.037500
+
+From compound 148 (SMILES: CN(C)CCCOc1cccc(C(=O)N2CCC3(CCCCc4ccccc4OCCN(Cc4ccncc4)C3)CC2)c1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.037500
+
+From compound 149 (SMILES: Cc1onc(C(=O)N2CCC3(CCCCc4ccccc4OCCN(Cc4cccnc4)C3)CC2)c1CN(C)C):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.038961
+
+From compound 150 (SMILES: Cl.O=C(c1ccc(Nc2nccc(-c3cc4ccccc4s3)n2)cc1)N1CCC(N2CCCC2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.000000
+
+From compound 151 (SMILES: O=C(c1cccc(OCCCN2CCCC2)c1)N1CCC2(CCCCc3ccccc3OCCN(Cc3cccnc3)C2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.024390
+
+From compound 152 (SMILES: O=C(c1ccccc1OCCN1CCCC1)N1CCC2(CCCCc3ccccc3OCCN(Cc3ccncc3)C2)CC1):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.087500
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.026316
+
+From compound 153 (SMILES: O=C(c1cccc(OCCCN2CCCC2)c1)N1CCC2(CCCCc3ccccc3OCCN(Cc3ccncc3)C2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.025000
+
+From compound 154 (SMILES: c1(c2cccc(Cl)c2)ccc(CN([H])Cc(ccc(c34)OCO3)c4)o1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.083333
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.062500
+
+From compound 155 (SMILES: c1(c2ccc(cc2)Br)ccc(CN([H])Cc(ccc(c34)OCO3)c4)o1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.063830
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.042553
+
+From compound 156 (SMILES: c1(c2ccc(cc2)Cl)ccc(CN([H])Cc(ccc(c34)OCO3)c4)o1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.063830
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.042553
+
+From compound 157 (SMILES: O=C1C=CC(=O)N1Cc1ccc2c(c1)OCO2):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.083333
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.055556
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.138889
+
+From compound 158 (SMILES: O=C1C=CC(=O)N1c1ccc2scnc2c1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.138889
+
+From compound 159 (SMILES: O=C(Cn1ccnc1)N1CCCCCCCCN(Cc2ccccc2)c2ccccc2C1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.035714
+
+From compound 160 (SMILES: Cc1nccn1CCC(=O)N1CCCCCCCCN(Cc2ccccc2)c2ccccc2C1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.033333
+
+From compound 164 (SMILES: CCC(C)c1ccc(N2C(=O)C=CC2=O)cc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.151515
+
+From compound 166 (SMILES: Cc1ccc(C(=O)CCN2CCOCC2)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.052632
+
+From compound 169 (SMILES: COc1cc(OC)c(N2C(=O)C=CC2=O)cc1Cl):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.147059
+
+From compound 170 (SMILES: CCC(=O)N1CCOCCOc2ccc(C)cc2Cc2cccc(c2)C1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.076923
+
+From compound 172 (SMILES: COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.019417
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.019417
+
+From compound 173 (SMILES: COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.018018
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.018018
+
+From compound 174 (SMILES: C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5.Cl):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.062500
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.086957
+
+From compound 175 (SMILES: N[C@H](Cc(ccc(c1Cl)Cl)c1)C(N(CCC2(CCCCC3)C(=O)NCCOc(c3c4)ccc4)CC2)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.028986
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.014286
+
+From compound 176 (SMILES: c1(cccc(F)c1)C[C@H](C(N2CCC(CCCCCc(cccc3)c3OCCN4C)(CC2)C4=O)=O)N):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.042254
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.027778
+
+From compound 177 (SMILES: N[C@@H](Cc1cccc(Cl)c1)C(N2CCC(CCCCCc(cccc3)c3OCCN4C)(CC2)C4=O)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.042254
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.027778
+
+From compound 180 (SMILES: Cc1ccc(CN2C(=O)C=CC2=O)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.068966
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.172414
+
+From compound 182 (SMILES: CC(C)n1cc(CN2CCC3(CCCCc4ccccc4OCC(=O)N(C)C3)CC2)c2ccc(F)cc21):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.041667
+
+From compound 183 (SMILES: O=C1C=CC(=O)N1c1ccccc1Oc1ccc(Cl)cc1Cl):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.125000
+
+From compound 185 (SMILES: CN1CCOc2ccccc2CCCCCC2(CCN(C(=O)C3CN(c4ccc(F)cc4)CCN3)CC2)C1=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.027397
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.013514
+
+From compound 186 (SMILES: Cc1ccc2nc(-c3ccc(N4C(=O)CC(N5CCC(C)CC5)C4=O)cc3)sc2c1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.017241
+
+From compound 187 (SMILES: O=C1C=CC(=O)N1c1ccc(-n2ccc(C(F)(F)F)n2)cc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.135135
+
+From compound 188 (SMILES: O=C1C=CC(=O)N1c1ccc(-n2nc(C(F)(F)F)cc2C(F)(F)F)cc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.128205
+
+From compound 189 (SMILES: c1(c2ccc(cc2)F)ccc(CN([H])Cc3cccs3)o1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.073171
+
+From compound 190 (SMILES: O=C(COc1ccc(CN2CCCC2)cc1)N1CCC2(CCCCc3ccccc3OCCN(Cc3ccccn3)C2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.027027
+
+From compound 191 (SMILES: Cc1ccc2c(c1)Cc1cccc(c1)CN(Cc1ccc3c(c1)Cc1cccc(c1)CN(C(=O)CN1CCN(C)CC1)CCOCCO3)CCOCCO2):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.044776
+
+From compound 193 (SMILES: CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1.Cl.Cl):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.039216
+
+From compound 198 (SMILES: CCCCN1CCC2(CCCCc3ccccc3OCCN(Cc3ccc(OC)cc3)C2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.065574
+
+From compound 199 (SMILES: COc1ccc(CN2CCOc3ccccc3CCCCC3(CCN(C4CCC4)CC3)C2)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.048387
+
+From compound 205 (SMILES: CCCCOc1ccc(-c2cc3c(N4CCN(CC)CC4)nccn3n2)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.076923
+
+From compound 207 (SMILES: c1coc(-c2cn3c(n2)sc2ccccc23)c1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.131579
+
+From compound 211 (SMILES: c1(ccc(CN([H])CC(O)c2ccccc2)o1)c3ccc(cc3Cl)Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.062500
+
+From compound 212 (SMILES: c1(ccc(CN([H])CC(O)c2ccccc2)o1)c3cc(Cl)ccc3Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.062500
+
+From compound 213 (SMILES: O=C(CC1CCN(CCc2ccccc2)CC1)N1CCC2(CCCCc3ccccc3OCCN(Cc3ccncc3)C2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.026667
+
+From compound 216 (SMILES: Cl.Cl.OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(Cl)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.020000
+
+From compound 217 (SMILES: Cl.Cl.OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.018519
+
+From compound 218 (SMILES: Cl.Cl.OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.018868
+
+From compound 220 (SMILES: CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1.Cl):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.266667
+
+From compound 223 (SMILES: c1(Cl)c(C#N)c(OC[C@H](O)CNC(C)(C)Cc2cc3c(cccc3)cc2)ccc1):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.148148
+
+From compound 227 (SMILES: [H]Cl.O=C1N(CCN)C2=CC(OC)=CC=C2N1C([C@H]3[C@H](C(C)C)CC[C@@H](C)C3)=O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.049180
+
+From compound 234 (SMILES: NC(=O)CCN1CCC(C(=O)N2CCC3(CCCCc4ccccc4OCCN(Cc4ccccc4)C3)CC2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.028169
+
+From compound 235 (SMILES: CC(C)N(CCC(=O)c1ccc2ccccc2c1)Cc1ccccc1.Cl):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.200000
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.066667
+
+From compound 237 (SMILES: C[N+]1=C(/C=C/C2=C(C)N(C3=CC=CC=C3)C(C)=C2)C=CC4=C1C=CC(N(C)C)=C4.C[N+]5=C(/C=C\C6=C(C)N(C7=CC=CC=C7)C(C)=C6)C=CC8=C5C=CC(N(C)C)=C8.OC9=C(CC%10=C(O)C(C([O-])=O)=CC%11=CC=CC=C%10%11)C%12=CC=CC=C%12C=C9C([O-])=O.[H]O[H]):
+  PAIN scaffold 30 (SMILES: c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole) (Exact scaffold found): 0.194444
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.100000
+
+From compound 239 (SMILES: Oc1ccc(-c2ccccc2)c(F)c1):
+  PAIN scaffold 63 (SMILES: c1ccc(c12)ccccc2	azulene): 0.320000
+
+From compound 242 (SMILES: FC(F)(F)c1[nH]nc(c1)c1cccc2ccccc12):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.218750
+
+From compound 245 (SMILES: Oc1cccc(-c2ccc3ccccc3n2)c1):
+  PAIN scaffold 65 (SMILES: c1cccc(c12)cc3c(c2)[nH]cn3	1H-naphtho[2,3-d]imidazole): 0.307692
+
+From compound 246 (SMILES: CCN(CC)CCCCN1c2ccccc2Oc2ccc(Cl)cc21.Cl):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.166667
+
+From compound 253 (SMILES: Oc1ccc(C2CC3CC2C2C=CCC32)cc1):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.000000
+
+From compound 255 (SMILES: [C@H]1(C[C@@H](C)C[C@H](C)C1=O)[C@H](O)CC(CC2=O)CC(N2)=O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.048780
+
+From compound 259 (SMILES: c(OCO1)(cc(C=C[N+]([O-])=O)cc2)c12):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.083333
+
+From compound 260 (SMILES: Fc1ccccc1CN1CCOc2ccccc2CCCCC2(CCNCC2)C1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.035088
+
+From compound 261 (SMILES: COc1ccc(CN2CCOc3ccccc3CCCCC3(CCNCC3)C2)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.051724
+
+From compound 263 (SMILES: c1ccc(CN2CCOc3ccccc3CCCCC3(CCNCC3)C2)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.037736
+
+From compound 265 (SMILES: CNCCCc1nc(N(C)CCC(C)C)ncc1C(=O)N1CCC2(CCCCCc3ccccc3OCCN(C)C2=O)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.035294
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.035294
+
+From compound 268 (SMILES: COc1ccc(OCc2nnc3sc(-c4ccc5c(c4)OCCO5)nn23)cc1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.053571
+
+From compound 269 (SMILES: COc1ccc(OCc2nnc3sc(-c4ccc(OC)c(OC)c4)nn23)cc1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.060000
+
+From compound 271 (SMILES: C(C(=O)N([H])CC(c(cc1)ccc1C(C)(C)C)N2CCCC2)(Oc(ccc(c3)Br)c3C4=O)=C4):
+  PAIN scaffold 4 (SMILES: O=c1ccoc(c12)cccc2	4H-chromen-4-one) (Exact scaffold found): 0.132353
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.032258
+
+From compound 272 (SMILES: COc1cc(CN2CCCCCCOc3ccccc3Oc3ccc(Cl)cc3NC(=O)C2)ccc1OCCN(C)C):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.066667
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.039474
+
+From compound 273 (SMILES: COc1ccc(CN(C)C)cc1CN1CCCCCOc2ccccc2Oc2ccc(Cl)cc2NC(=O)C1):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.103896
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.069444
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.041096
+
+From compound 280 (SMILES: CC1CCN(CCCNC(=O)c2cc3c(s2)-c2ccc(Cl)cc2SC3)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.031746
+
+From compound 281 (SMILES: COc1ccc(-c2cc(C(=O)NCCN3CCCCC3)c3cccc(-c4ccc(F)cc4)c3n2)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.030769
+
+From compound 282 (SMILES: [C@@H]1(O)C[C@]2([H])N(C(=O)[C@]([H])([C@H](O)C)NC(=O)[C@@H](NC(=O)CCCCCCCC[C@H](C)C[C@H](C)CC)C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@]3([H])N(CC[C@@H]3O)C(=O)[C@@]([H])([C@@H](O)CCN)NC(=O)[C@]([H])([C@@H]([C@H](c4ccc(O)cc4)O)O)NC2=O)C1.CC(O)=O.CC(O)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.029412
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.060606
+
+From compound 286 (SMILES: c1c(C)c(C#Cc2cnc3c(cn[nH]3)c2)cc(C(=O)Nc4ccc(CN5CCN(C)CC5)c(C(F)(F)F)c4)c1.CS(O)(=O)=O.CS(O)(=O)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.038462
+
+From compound 288 (SMILES: COC(=O)c1sc(-c2cccs2)cc1N1C(=O)C=CC1=O):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.108696
+
+From compound 292 (SMILES: Cc1oc2ncnc(N3CCCC(C(=O)Nc4ccccc4Cl)C3)c2c1C):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.067797
+
+From compound 298 (SMILES: CC1(C)Cc2cccc(OCC(=O)Nc3cc(Cl)ccc3O)c2O1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.132075
+
+From compound 299 (SMILES: CN(C)CCCN(C(=O)c1ccc2c(c1)OCCO2)c1nc2ccc(Cl)cc2s1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.067797
+
+From compound 301 (SMILES: c1ccc(CCCN[C@]([H])(C)c2c3c(cccc3)ccc2)cc1C(F)(F)F.Cl):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.159091
+
+From compound 304 (SMILES: Cc1oc2ncnc(N3CCC(C(=O)NCc4ccc(Cl)cc4)CC3)c2c1C):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.051724
+
+From compound 309 (SMILES: Brc1ccc(-c2ccc(CNCc3cccnc3)o2)c(Br)c1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.062500
+
+From compound 310 (SMILES: c1(ccc(CN([H])Cc2ccccn2)o1)c3ccc(cc3Cl)Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.063830
+
+From compound 311 (SMILES: c1(ccc(CN([H])Cc(cc2)ccn2)o1)c3ccc(cc3Cl)Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.044444
+
+From compound 312 (SMILES: c1(ccc(CN([H])CCCOCC)o1)c2ccc(cc2Cl)Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.040816
+
+From compound 313 (SMILES: c1(ccc(CN([H])C2CC2)o1)c3ccc(cc3Cl)Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.047619
+
+From compound 314 (SMILES: c1(ccc(CN([H])Cc2ccccn2)o1)c3cc(Cl)ccc3Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.063830
+
+From compound 315 (SMILES: c1(ccc(CN([H])Cc2ccccn2)o1)c3cc(Cl)cc(Cl)c3):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.068182
+
+From compound 316 (SMILES: c1(ccc(CN([H])Cc(cccn2)c2)o1)c3ccc(cc3Cl)Br):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.060000
+
+From compound 317 (SMILES: c1(c2ccc(cc2)Br)ccc(CN([H])Cc3ccccn3)o1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.069767
+
+From compound 318 (SMILES: c1(c2ccc(cc2)Cl)ccc(CN([H])Cc3ccccn3)o1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.069767
+
+From compound 323 (SMILES: COc1ccccc1N1CCN(CCN(C(=O)C2CCCCC2)c2ccccn2)CC1.Cl.Cl.Cl):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.049180
+
+From compound 324 (SMILES: Cc1cccc2c1-c1sc(C(=O)NCCCN3CCC(Cc4ccccc4)CC3)cc1CO2):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.044118
+
+From compound 328 (SMILES: CCC(C)Nc1ncnc2c1oc1ccccc12):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.069767
+
+From compound 333 (SMILES: O=C([C@@H](N\C(=N\C1CCCCC1)\NC2CCCCC2)Cc3cc(cccc4)c4cc3)Nc5ccc(C[P+](CCCC)(CCCC)CCCC)cc5.Cl.[Cl-]):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.119403
+
+From compound 336 (SMILES: [C@@H]1(OC(\C=C\C=C\C=C\C=C\CC\C=C\C=C\C(C)C(O)C(C)C(C)OC(=O)CC(O)CC(O)CC(O)CCC(O)C(O)CC(=O)CC(O)C2C(O)=O)CC2O)O[C@H](C)[C@H]([C@H](N)[C@@H]1O)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.038462
+
+From compound 339 (SMILES: O=C(/C=C\C(=O)c1ccc2ccccc2c1)c1ccccc1):
+  PAIN scaffold 43 (SMILES: c1cccc(c12)cc3c(c2)cccc3	anthracene): 0.333333
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.307692
+
+From compound 340 (SMILES: COc1ccc(-n2c(C)cc(CN)c2C)cc1):
+  PAIN scaffold 30 (SMILES: c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole) (Exact scaffold found): 0.263158
+
+From compound 342 (SMILES: O=C1C=CC(=O)N1c1ccccc1Sc1ccccc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.151515
+
+From compound 343 (SMILES: COc1ccc(N2C(=O)C=CC2=O)cc1OC):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.093750
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.156250
+
+From compound 344 (SMILES: Cl.Cl.OC(CN1CCNCC1)Cn1c2ccc(Br)cc2c2cc(Br)ccc21):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.045455
+
+From compound 345 (SMILES: COc1ccccc1C1(O)CCN(CCCn2c3ccccc3c3ccccc32)CC1.Cl):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.040000
+
+From compound 346 (SMILES: CCCCc1ccc(N2C(=O)C=CC2=O)cc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.151515
+
+From compound 347 (SMILES: O=c1c2ccccc2oc2cc(O)cc(O)c12):
+  PAIN scaffold 1 (SMILES: c1cc(O)c(O)cc1-c(c(O)c2=O)oc(c23)cc(O)cc3O	2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-4H-chromen-4-one): 0.488372
+  PAIN scaffold 2 (SMILES: c1ccccc1-c(cc2=O)oc(c23)cccc3	2-phenyl-4H-chromen-4-one): 0.400000
+  PAIN scaffold 4 (SMILES: O=c1ccoc(c12)cccc2	4H-chromen-4-one) (Exact scaffold found): 0.342105
+
+From compound 348 (SMILES: O=C1C=CC(=O)N1Cc1ccc(Cl)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.034483
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.178571
+
+From compound 349 (SMILES: CC(C)c1cccc(C(C)C)c1N1C(=O)C=CC1=O):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.166667
+
+From compound 350 (SMILES: O=C1C=CC(=O)N1c1ccc(-c2csnn2)cc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.138889
+
+From compound 352 (SMILES: O=c1cc(-c2ccccc2)cc(-c2ccccc2)n1O):
+  PAIN scaffold 31 (SMILES: Cn1c(C)ccc1-c2ccccc2	1,2-dimethyl-5-phenyl-1H-pyrrole): 0.314286
+  PAIN scaffold 63 (SMILES: c1ccc(c12)ccccc2	azulene): 0.346154
+
+From compound 353 (SMILES: O=C1C=CC(=O)N1c1cccc2ccccc12):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.280000
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.166667
+
+From compound 356 (SMILES: CCN1CCN(Cc2ccc(Nc3ncc4c(n3)N(C)c3ccccc3C(=O)N4C)cc2C(F)(F)F)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.060606
+
+From compound 361 (SMILES: CC(C)(C)c1ccc(O)c(C(C)(C)C)c1O):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol): 0.304348
+
+From compound 369 (SMILES: c1(c2ccc(cc2)Br)ccc(CN([H])Cc3ccco3)o1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.105263
+
+From compound 371 (SMILES: CCCCc1oc2ccc(NS(C)(=O)=O)cc2c1C(=O)c1ccc(OCCCN(CCCC)CCCC)cc1.Cl):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.030769
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.080645
+
+From compound 372 (SMILES: c(cc(c(c12)ccc(c1O)N=Nc(cc3)c(OC)cc3c(cc4)cc(c4N=Nc(ccc(c5c6N)c(cc6S(=O)(=O)[O-])S(=O)(=O)[O-])c5O)OC)S(=O)(=O)[O-])(c2N)S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]):
+  PAIN scaffold 8 (SMILES: Nc1cc(S(=O)(=O)[O-])cc(c12)cc(S(=O)(=O)[O-])c(c2O)\N=N\c(c3C)ccc(c3)-c4cc(C)c(cc4)/N=N/c(c5O)c(S(=O)(=O)[O-])cc(c56)cc(S(=O)(=O)[O-])cc6N.[Na+].[Na+].[Na+].[Na+]	sodium 3,3'-((1E,1'E)-(3,3'-dimethyl-[1,1'-biphenyl]-4,4'-diyl)bis(diazene-2,1-diyl))bis(5-amino-4-hydroxynaphthalene-2,7-disulfonate)): 0.424242
+  PAIN scaffold 10 (SMILES: Nc1c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c(c12)ccc(c2O)\N=N\c(c3OC)ccc(c3)-c4cc(OC)c(cc4)/N=N/c(c5O)ccc(c56)c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c6N	6,6'-((1E,1'E)-(3,3'-dimethoxy-[1,1'-biphenyl]-4,4'-diyl)bis(diazene-2,1-diyl))bis(4-amino-5-hydroxynaphthalene-1,3-disulfonate)) (Exact scaffold found): 1.000000
+  PAIN scaffold 13 (SMILES: c1ccccc1/N=N/c2ccccc2	(E)-1,2-diphenyldiazene) (Exact scaffold found): 0.094340
+  PAIN scaffold 37 (SMILES: CN=NC	1,2-dimethyldiazene) (Exact scaffold found): 0.040816
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.058824
+
+From compound 373 (SMILES: [C@H]1(O)[C@H](O)[C@]([H])(O[C@@H]2[C@H](CO)O[C@@]([H])(O[C@@H]3CC[C@@]4(C)C(=CC[C@]5([H])[C@@]4([H])CC[C@@]6(C)[C@@]5([H])C[C@@]7([H])[C@@]6([H])[C@@H](C)[C@@]8(CC[C@@H](C)CO8)O7)C3)[C@H](O[C@]9([H])O[C@@H](C)[C@H](O)[C@@H](O)[C@H]9O)[C@H]2O)O[C@@H](C)[C@@H]1O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.035714
+
+From compound 374 (SMILES: CC(C)(C)c1ccccc1N1C(=O)C=CC1=O):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.161290
+
+From compound 376 (SMILES: Cc1c(Cl)cccc1N1C(=O)C=CC1=O):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.156250
+
+From compound 377 (SMILES: O=C1C=CC(=O)N1c1ccc(-c2ccccc2)cc1):
+  PAIN scaffold 63 (SMILES: c1ccc(c12)ccccc2	azulene): 0.391304
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.178571
+
+From compound 378 (SMILES: CCn1c2ccccc2c2cc(N3C(=O)C=CC3=O)ccc21):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.128205
+
+From compound 379 (SMILES: COc1ccc(CN2C(=O)C=CC2=O)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.062500
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.156250
+
+From compound 380 (SMILES: O=C1C=CC(=O)N1c1ccccc1OC(F)(F)F):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.147059
+
+From compound 381 (SMILES: O=C1C=CC(=O)N1c1ccccc1C(F)(F)F):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.161290
+
+From compound 383 (SMILES: COc1ccc(-c2cnn3ccc(-c4ccc(Cl)cc4)nc23)cc1OC):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.062500
+
+From compound 385 (SMILES: CCOC(=O)c1sc(NC(=O)c2ccco2)c(SC#N)c1C):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.094340
+
+From compound 389 (SMILES: O=C1C=CC(=O)N1Cc1cccs1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.031250
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.161290
+
+From compound 390 (SMILES: COc1ccc(CCN2C(=O)C=CC2=O)cc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.058824
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.147059
+
+From compound 392 (SMILES: CCN(CC)CCN1COc2c(cc(Cl)c3cccnc23)C1):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.101695
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.142857
+
+From compound 393 (SMILES: COc1cc(Nc2ncc3ccn(-c4cccc(CCC#N)c4)c3n2)cc(OC)c1OC):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.064516
+
+From compound 397 (SMILES: O=C1C=CC(=O)N1c1ccccc1Br):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.178571
+
+From compound 399 (SMILES: CC[C@@H]1[C@H](C)C[C@@H]2[C@H]3C[C@H]4CCC(=O)C5=C(O)[C@H](CCCNC(=O)\C=C/C[C@@H]4[C@H]3C=C[C@@H]12)NC5=O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.045455
+
+From compound 402 (SMILES: [C@@]1(O)([C@@]([H])(C[C@](C2=C1O)([H])[C@](C)(O)c(c3C2=O)cccc3O)[C@H](N(C)C)C(=C4C(=O)NCNC(CCCCN)C(O)=O)O)C4=O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.037500
+
+From compound 403 (SMILES: C[C@H]1C[C@H](C)C(=O)C(C1)[C@H](O)CC1CC(=O)NC(=O)C1):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.048780
+
+From compound 405 (SMILES: [H][C@]12O[C@@]11[C@]([H])(CC[C@]3(C)[C@@]4(C)C5=C6C7=C8C(CC(=C)[C@@]9([H])C[C@@]([H])([C@@]89O)C(C)(C)O[C@@]6([H])[C@]4([H])CC[C@@]13O)=C(Cl)C=C7N5)O[C@@]([H])([C@@H]2O)C(C)=C):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.023810
+
+From compound 407 (SMILES: Cc1ccc(Cl)cc1N1CCN(C(=O)C2CCN(Cc3nc(-c4ccc(Cl)cc4)oc3C)CC2)CC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.031250
+
+From compound 408 (SMILES: O=C1C=CC(=O)N1c1ccc(Br)cc1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.192308
+
+From compound 410 (SMILES: c1(c2ccccc2)ccc(CN([H])CCc(c3c([nH]4)cccc3)c4)o1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.066667
+
+From compound 414 (SMILES: [H][C@@]12CC3=CC=C(OC4=CC(C[C@@]5([H])N(C)CCC6=C5C(OC5=C(OC)C=C(CCN1C)C2=C5)=C(OC)C(OC)=C6)=CC=C4OC(=O)C1=CC=C(C=C1)[N+]([O-])=O)C=C3):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.046512
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.051282
+
+From compound 415 (SMILES: N#C/C(=C/c1ccc(O)c(O)c1)C(=O)OC/C=C/c1ccccc1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.209302
+
+From compound 416 (SMILES: Cc1cc(C=C2C(=O)C=CC2=O)cc(C)c1O):
+  PAIN scaffold 39 (SMILES: C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one) (Exact scaffold found): 0.125000
+
+From compound 417 (SMILES: Cc1cc(C=C2C(=O)C=CC2=O)cc(C)c1O):
+  PAIN scaffold 39 (SMILES: C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one) (Exact scaffold found): 0.125000
+
+From compound 420 (SMILES: CSc1cccc(N2C(=O)C=CC2=O)c1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.151515
+
+From compound 421 (SMILES: O=C1C=CC(=O)N1c1cccc2c1CCCC2):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.147059
+
+From compound 426 (SMILES: N1(CCCCCCN[C@H]2CCC3[C@]2(C)CCC4C3CCc(cc(OC)cc5)c45)C(=O)C=CC1=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.029412
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.060606
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.089552
+
+From compound 431 (SMILES: O=C(O)c1ccc(-c2ccc3cc(C45CC6CC(CC(C6)C4)C5)c(O)cc3c2)cc1):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.093023
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.000000
+
+From compound 433 (SMILES: CS(=O)(=O)O.Cn1cc(C2=C(c3cn(CCCSC(=N)N)c4ccccc34)C(=O)NC2=O)c2ccccc21):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.107143
+
+From compound 435 (SMILES: CN(C)CCCCC(=O)Nc1ccc(NC(=S)NC(=O)c2ccc(C(C)(C)C)cc2)cc1):
+  PAIN scaffold 57 (SMILES: NC(=S)N	thiourea) (Exact scaffold found): 0.063830
+
+From compound 441 (SMILES: O=C1C=CC(=O)N1CCc1ccccc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.033333
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.172414
+
+From compound 444 (SMILES: Cc1n(Cc2ccccc2)cc[n+]1CCCCCCCCCCCCCCCC.[I-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.228571
+
+From compound 450 (SMILES: Clc1cc(Br)ccc1-c1ccc(CNCC2CCNCC2)o1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.040000
+
+From compound 453 (SMILES: C12(c3c(C(=O)O1)cccc3)c4c(cc([O-])c(Br)c4)Oc5c2cc(Br)c(c5[Hg]O)[O-].[Na+].[Na+]):
+  PAIN scaffold 5 (SMILES: c1cccc(C(O2)=O)c1C23c4c(cc(O)cc4)Oc5c3ccc(c5)O	3',6'-dihydroxy-3H-spiro[isobenzofuran-1,9'-xanthen]-3-one) (Exact scaffold found): 0.438596
+
+From compound 456 (SMILES: [H][C@]1(CSC(=O)N1)[C@@]1(O)C[C@H]2C[C@@H](CC[C@H](C)\C=C/CC\C(C)=C/C(=O)O2)O1):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.016393
+
+From compound 457 (SMILES: CSC1=NC(=O)/C(=C\c2cccc3ccccc23)S1):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.189189
+
+From compound 458 (SMILES: C(C(C[N+](C)(C)C)OC(CCCCCCCCCCCCCCC)=O)C(O)=O.[Cl-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.235294
+
+From compound 460 (SMILES: Brc1ccc(O)c(c1)c1n[nH]c(c1)c1ccco1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.100000
+
+From compound 461 (SMILES: [n+]1(C)c(ccc(cc2N(C)C)c1cc2)\C=C\c(cc(n3c4ccccc4)C)c3C.c(C(=O)[O-])(cc(cccc5)c5c6Cc(c7c(cccc7)cc8C(O)=O)c8O)c6O):
+  PAIN scaffold 30 (SMILES: c1ccccc1-n2c(C)ccc2C	2,5-dimethyl-1-phenyl-1H-pyrrole) (Exact scaffold found): 0.189189
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.097222
+
+From compound 463 (SMILES: CN(C)CCN(Cc1ccc(-c2ccc(CNCCc3ccccc3)cc2)cc1)C(=O)CCC1CCCC1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.050847
+
+From compound 467 (SMILES: Cc1ccc2c(Cl)cc(Cl)c(OCC(=O)NCc3ccco3)c2n1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.076923
+
+From compound 470 (SMILES: Cc1cc(C)cc(N2C(=O)C=CC2=O)c1):
+  PAIN scaffold 66 (SMILES: O=C1C=CC(N1)=O	1H-pyrrole-2,5-dione) (Exact scaffold found): 0.192308
+
+From compound 471 (SMILES: C1Oc(c2)c(O1)cc(\C=C\[N+](=O)[O-])c2):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.083333
+
+From compound 473 (SMILES: Cc1ccc(NC(=O)c2ccccc2O)cc1):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.222222
+
+From compound 477 (SMILES: Nc1ccc(-c2ncc(-c3ccccc3)o2)cc1):
+  PAIN scaffold 2 (SMILES: c1ccccc1-c(cc2=O)oc(c23)cccc3	2-phenyl-4H-chromen-4-one): 0.317073
+
+From compound 479 (SMILES: N#Cc1cccc(c1c1[nH]c2c(n1)c1ccc(cc1c1c2cccc1)Cl)C#N):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.136364
+
+From compound 480 (SMILES: CS(=O)(=O)O.CSc1ccc2c(c1)C(N1CCN(C)CC1)Cc1ccccc1S2):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.018519
+
+From compound 483 (SMILES: c1(Br)c(N2CCN(Cc3noc(C)c3)CC2)c4c([nH]c(c5ccc(N6CCN(C)CC6)cc5)n4)nc1):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.031250
+
+From compound 487 (SMILES: COc1ccccc1CNCC(O)Cn1c2ccccc2c2ccccc21):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.187500
+
+From compound 489 (SMILES: CC(=NNC(=S)N1CCC1)c1ccccn1):
+  PAIN scaffold 57 (SMILES: NC(=S)N	thiourea) (Exact scaffold found): 0.075000
+
+From compound 490 (SMILES: Oc1ccccc1c1n[nH]c(c1)c1ccc2OCCOc2c1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.216216
+
+From compound 491 (SMILES: O=C(Nc1ccccc1)c1cc(Cl)ccc1O):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.205128
+
+From compound 493 (SMILES: Cc1ccc(S(c2oc([N+]([O-])=O)cc2)(=O)=O)cc1):
+  PAIN scaffold 46 (SMILES: o1cccc1	furan) (Exact scaffold found): 0.055556
+
+From compound 496 (SMILES: c12c(ccc(Cl)c1)Sc3c(cccc3)CC2([H])N(CC4)CCN4C.C(O)(=O)\C=C/C(O)=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.018519
+
+From compound 503 (SMILES: NCC(=O)Nc1ccc(-n2nc(C(F)(F)F)cc2-c2ccc3c(ccc4ccccc43)c2)cc1):
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.129630
+
+From compound 504 (SMILES: CC(C)CC1NC(=O)C(CCCN)NC(=O)C(C(C)C)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccccc2)NC(=O)C2CCCN2C(=O)C(Cc2ccccc2)NC1=O):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.037500
+
+From compound 505 (SMILES: Oc1ccc2ccccc2c1SSc1c(O)ccc2ccccc12):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol): 0.347826
+  PAIN scaffold 45 (SMILES: c1cccc(c12)cccc2	naphthalene) (Exact scaffold found): 0.304348
+
+From compound 506 (SMILES: C1(=CC(=O)C(=C2C)O)C2=CC=C3[C@@]1(C)CC[C@@]4([C@]3(C)CC[C@@](C)(CC[C@@]5(C)C(O)=O)[C@@]4([H])C5)C):
+  PAIN scaffold 39 (SMILES: C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one) (Exact scaffold found): 0.066667
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.016667
+
+From compound 507 (SMILES: O(C(\C=C\C=C\C=C\C=C\C=C\C=C\C=C\C(C)C(OC(=O)CC(CCCC(=O)CC(O)CC(O)CC(O)CC(=O)C1)=O)C(CC(C)C(O)CC(=O)c2ccc(N)cc2)C)CC(O)C(C1O)C(O)=O)[C@@H]([C@@H](N)[C@H](O)[C@@H](O)[C@H]3C)O3):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.021277
+
+From compound 509 (SMILES: O=c1c(-c2ccccc2)c1-c1ccccc1):
+  PAIN scaffold 2 (SMILES: c1ccccc1-c(cc2=O)oc(c23)cccc3	2-phenyl-4H-chromen-4-one): 0.322581
+  PAIN scaffold 42 (SMILES: c1cccc(c12)C(=O)C=CC2=O	naphthalene-1,4-dione): 0.318182
+  PAIN scaffold 63 (SMILES: c1ccc(c12)ccccc2	azulene): 0.470588
+
+From compound 512 (SMILES: O=C(/C=C/c1ccc(O)c(O)c1)OCCc1ccccc1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.243243
+
+From compound 515 (SMILES: [n+]1(CCCCCCCCCCCCCCCC)ccccc1.[Cl-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.380952
+
+From compound 516 (SMILES: C(C)CCCCCCCCCC[N+](C)(C)CCOc1ccccc1.[Br-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.258065
+
+From compound 519 (SMILES: c(c1)(ccc(OC)c1)CN(CC[N+](CCCCCCCCCCCCCCCC)(C)C)c2ncccn2.[Br-]):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.190476
+
+From compound 520 (SMILES: O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(Cl)ccc1O):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.130435
+
+From compound 521 (SMILES: C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1.O=C(O)/C=C\C(=O)O):
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.026316
+
+From compound 524 (SMILES: CC1=C(O)C(=O)C=C2C1=CC=C1C2(C)CCC2(C)C3CC(C)(C(=O)O)CCC3(C)CCC12C):
+  PAIN scaffold 39 (SMILES: C/C=C/C(=O)/C=C/C	(2E,5E)-hepta-2,5-dien-4-one) (Exact scaffold found): 0.066667
+  PAIN scaffold 52 (SMILES: CCCCCCCCC	nonane) (Exact scaffold found): 0.016667
+
+From compound 526 (SMILES: COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3F)ccnc2cc1OCCCN1CCOCC1):
+  PAIN scaffold 35 (SMILES: Oc1ccccc1O	pyrocatechol) (Exact scaffold found): 0.051948
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.025641
+
+From compound 529 (SMILES: Oc1ccc(Cl)cc1C1=NC2(CCNCC2)NC(c2ccccc2O)C1):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.145455
+
+From compound 530 (SMILES: C1(=O)Nc2c(cc(Cl)cc2)C(N[C@@H]3CN(CCC34)CC4)=C1c5[nH]c6c(cccc6)n5):
+  PAIN scaffold 51 (SMILES: CCN(CC)CC	triethylamine) (Exact scaffold found): 0.000000
+
+From compound 532 (SMILES: CCOC(=O)N1CCC2(CC1)N=C(c1cc(Cl)ccc1O)CC(c1ccccc1O)N2):
+  PAIN scaffold 18 (SMILES: NCc1ccccc1O	2-(aminomethyl)phenol) (Exact scaffold found): 0.153846
+
+From compound 534 (SMILES: O=C1Nc2cc(Br)ccc2/C1=C1/Nc2ccccc2/C1=N/O):
+  PAIN scaffold 53 (SMILES: O=C1C(=O)Nc(c12)cccc2	indoline-2,3-dione): 0.363636
+
+Unmentioned compounds:
+From compound 1 (SMILES: c1cc(C(Cn2cncc2)OCc3c(Cl)cc(Cl)cc3)c(Cl)cc1Cl.O[N+]([O-])=O)
+From compound 2 (SMILES: CCN(CC)C(=S)SSC(=S)N(CC)CC)
+From compound 3 (SMILES: C(C)(=O)O[Hg]c1ccccc1)
+From compound 4 (SMILES: C=CCc1ccc(O)c(-c2cc(CC=C)ccc2O)c1)
+From compound 5 (SMILES: COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c3ccc(F)cc3)
+From compound 6 (SMILES: c1(NC(OC)=O)[nH]c(c(c2)n1)ccc2C(c3ccccc3)=O)
+From compound 8 (SMILES: S(=O)(c1ccccc1)c2ccc3c([nH]c(NC(=O)OC)n3)c2)
+From compound 9 (SMILES: c1(NC(OC)=O)[nH]c(c2n1)ccc(CCCC)c2)
+From compound 10 (SMILES: c1ccc(Sc2ccc3c([nH]c(NC(=O)OC)n3)c2)cc1)
+From compound 11 (SMILES: C=CCc1ccc(O)c(-c2ccc(O)c(CC=C)c2)c1)
+From compound 15 (SMILES: COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)O)C(=O)OC2)
+From compound 16 (SMILES: NNCCc1ccccc1.O=S(=O)(O)O)
+From compound 19 (SMILES: Clc1cc(Cl)c(OCC#CI)cc1Cl)
+From compound 20 (SMILES: Clc1ccc(CCC(Cn2ccnc2)Sc2c(Cl)cccc2Cl)cc1)
+From compound 22 (SMILES: C[N+](C)(CC1=CC=C(NC(C2=CC3=CC(C4=CC=C(C)C=C4)=CC=C3CCC2)=O)C=C1)C5CCOCC5.[Cl-])
+From compound 24 (SMILES: C(C)(C)(CC(C)(C)C)c1ccc(c(C)c1)OCCOCC[N+](C)(C)Cc2ccccc2.[Cl-])
+From compound 26 (SMILES: C[C@@H]1C[C@H]2O[C@@H]2/C=C\C=C\C(=O)Cc2c(C(=O)O1)c(O)cc(c2Cl)O)
+From compound 27 (SMILES: C\C=C\C\C=C\CCC([C@H]1O[C@H]1C(N)=O)=O)
+From compound 28 (SMILES: N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1.O=S(=O)(O)CCO.O=S(=O)(O)CCO)
+From compound 29 (SMILES: Cc1cc(C2CCCCC2)n(O)c(=O)c1)
+From compound 30 (SMILES: Cc1cc(C2CCCCC2)n(O)c(=O)c1.NCCO)
+From compound 31 (SMILES: c1n(CC(SCc2ccc(Cl)cc2)c3ccc(Cl)cc3Cl)ccn1.[N+]([O-])(=O)O)
+From compound 32 (SMILES: c1c([N+](=O)[O-])c(c2c(O)c1)cccn2)
+From compound 33 (SMILES: c1(SCCC)cc2c(nc(NC(=O)OC)[nH]2)cc1)
+From compound 34 (SMILES: CC(C)c1cccc(=O)c(O)c1)
+From compound 36 (SMILES: N=C(NCCCCCCNC(=N)NC(=N)Nc1ccc(Cl)cc1)NC(=N)Nc1ccc(Cl)cc1)
+From compound 37 (SMILES: Cc1ccc2c(Cl)cc(Cl)c(O)c2n1)
+From compound 39 (SMILES: Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1)
+From compound 40 (SMILES: c1n(CC(OCc2csc3c2cccc3Cl)c4ccc(Cl)cc4Cl)ccn1.[R])
+From compound 41 (SMILES: c1c(Cl)c(SC(CCc2ccc(Cl)cc2)Cn3ccnc3)c(Cl)cc1.[N+](O)(=O)[O-])
+From compound 43 (SMILES: O=c1[nH]cc(F)c(=O)[nH]1)
+From compound 44 (SMILES: [C@H]1(O)[C@@H](O)[C@@H](CO)O[C@@H](OC[C@H]2O[C@@H](O[C@@H](C#N)c3ccccc3)[C@H](O)[C@@H](O)[C@@H]2O)[C@@H]1O)
+From compound 46 (SMILES: c1(c2O)c(c(c([C@@](C[C@]3(O)C(C)=O)([H])O[C@H]4C[C@@H]([C@H](O)[C@H](C)O4)N)c2C3)O)C(c(cccc5)c5C1=O)=O)
+From compound 47 (SMILES: C[C@@H]1O[C@H](C[C@H](N)[C@@H]1O)O[C@H]2C[C@@](O)(Cc3c(O)c4C(=O)c5ccccc5C(=O)c4c(O)c23)C(=O)C.Cl-)
+From compound 49 (SMILES: COC(=O)Nc1nc2cc(C(=O)c3cccs3)ccc2[nH]1)
+From compound 51 (SMILES: NC(C=C1)=CC2=C1C(C=CC(N)=C3)=C3C(C4=CC=CC=C4)=[N+]2CC.[Br-])
+From compound 52 (SMILES: n1c(cc2Cl)c([nH]c1SC)cc2Oc3cccc(Cl)c3Cl)
+From compound 55 (SMILES: OCCN1CCN(CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1.Cl-)
+From compound 57 (SMILES: CCP(CC)CC.CC(=O)OCC1C(C(C(C(O1)[S-])OC(=O)C)OC(=O)C)OC(=O)C.[Au+] �)
+From compound 59 (SMILES: CN(C)CCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1)
+From compound 60 (SMILES: C(C(=O)OCC(C)C)(=C(C)NC(=C1C(OC)=O)C)C1c2ccccc2[N+](=O)[O-])
+From compound 61 (SMILES: CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1)
+From compound 63 (SMILES: [C@@H](O)([C@@H](C)NCCCCCCCC)c1ccc(cc1)SC(C)C)
+From compound 65 (SMILES: [n+]1(C(c2ccc(cc2)Cl)c3ccc(Cl)cc3)ccn(CC(OCc4ccc(cc4Cl)Cl)c5ccc(cc5Cl)Cl)c1.[Cl-])
+From compound 69 (SMILES: CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2)
+From compound 70 (SMILES: CN1CCN(CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1.Cl-)
+From compound 72 (SMILES: Oc1c(Cl)cc(Cl)c2cccnc12)
+From compound 73 (SMILES: c1cc(c(c(C(=O)NC2)c23)c(c(n4[C@@](C)(O[C@]56[H])[C@H](OC)[C@H](NC)C5)c3c(cccc7)c47)n68)c8cc1)
+From compound 75 (SMILES: Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1)
+From compound 78 (SMILES: [N+](O)(=O)[O-].s1cc(c(cccc2Cl)c12)COC(Cn(ccn3)c3)c4ccc(cc4Cl)Cl)
+From compound 79 (SMILES: Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl)
+From compound 80 (SMILES: Oc1c(I)cc(I)c2cccnc12)
+From compound 81 (SMILES: CCCCCCCCNC(C)C(O)c1ccc(SC(C)C)cc1)
+From compound 82 (SMILES: Cc1cc(Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)c(OC(C)C)cc1C1CCNCC1)
+From compound 83 (SMILES: Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1)
+From compound 85 (SMILES: c1cc2c([nH]c(C3=NC(=Cc4[nH]c(C)cc4C)C(OC)=C3)c2)cc1.CS(O)(=O)=O)
+From compound 86 (SMILES: NNCCc1ccccc1)
+From compound 90 (SMILES: CN(C)CCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1.O=C(O)CC(O)(CC(=O)O)C(=O)O)
+From compound 91 (SMILES: CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1)
+From compound 92 (SMILES: CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O)
+From compound 93 (SMILES: c1cc(C(OCc2ccc(Cl)cc2)Cn3cncc3)c(Cl)cc1Cl.[N+](O)(=O)[O-])
+From compound 95 (SMILES: C1=CC=[N+](C(=C1)[S-])[O-].C1=CC=[N+](C(=C1)[S-])[O-].[Zn+2])
+From compound 96 (SMILES: CN[C@H]1CC[C@@H](C2=CC=C(Cl)C(Cl)=C2)C3=C1C=CC=C3)
+From compound 97 (SMILES: Nc1nc(O)ncc1F)
+From compound 98 (SMILES: CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c3ccccc13.Cl-)
+From compound 101 (SMILES: Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1)
+From compound 102 (SMILES: c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1)
+From compound 105 (SMILES: c1cc(OCCOCC[N+](C)(C)Cc2ccccc2)ccc1C(C)(C)CC(C)(C)C.[Cl-])
+From compound 106 (SMILES: CCCCCCNC(=O)n1cc(F)c(=O)[nH]c1=O)
+From compound 107 (SMILES: CN(C)CCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1.O=C(O)CC(O)(CC(=O)O)C(=O)O)
+From compound 109 (SMILES: c1cc(C(Cn2cncc2)OCc3c(Cl)cccc3Cl)c(Cl)cc1Cl.[N+](O)(=O)[O-])
+From compound 112 (SMILES: c1(cccc2)c2n([C@]([C@@](C(OC)=O)(O)C3)(C)O[C@@]34[H])c(c(n4c(cccc5)c56)c6c(C(=O)NC7)c78)c18)
+From compound 117 (SMILES: c1(c(C)c(cc2)c(c3C)cn2)c3c4c(cccc4)[nH]1)
+From compound 118 (SMILES: Clc1c(cc([C@@H]2C[C@@H](NC)c(c23)cccc3)cc1)Cl.Cl)
+From compound 123 (SMILES: [H][C@]12C[C@@H](NC)[C@@H](OC)[C@](C)(O1)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=C(C=CC=C5)N2C4=C13)
+From compound 124 (SMILES: c1cc(n2c(c(n(C3([H])OC2(C)[C@@H](OC)[C@@H](NC)C3)c(cccc4)c45)c5c(C(=O)NC6)c67)c78)c8cc1)
+From compound 132 (SMILES: O=C(/C=C/O)c1cccc(OCc2ccc(Cl)cc2Cl)c1)
+From compound 133 (SMILES: N#C/C(N)=C(/C#N)NCc1ccccc1Sc1ccc(Cl)cc1)
+From compound 136 (SMILES: O/N=C\c1ccccc1Oc1ccc(Cl)c(F)c1)
+From compound 137 (SMILES: N#C/C=C(\N)c1ccc(Oc2ccc(Cl)c(F)c2)cc1)
+From compound 140 (SMILES: COC1=CC=C(C[C@@H]2NC[C@@H](O)[C@@H]2OC(C)=O)C=C1)
+From compound 141 (SMILES: CC(=O)ON=C1C(=O)N(Cc2cc(Cl)ccc2Cl)c2ccc(Cl)cc21)
+From compound 143 (SMILES: N#CSc1ccc2nc(-c3c(F)cccc3F)oc(=O)c2c1)
+From compound 144 (SMILES: Cc1cc(C(=O)CSC#N)ccc1Cl)
+From compound 145 (SMILES: CC(C)c1ccc(C(=O)c2cccs2)c(SCCCCCCCCN(C)C)n1.O=C(O)C(=O)O)
+From compound 161 (SMILES: OC(CNCc1ccc(Cl)cc1)COc1ccc(F)cc1Cl)
+From compound 162 (SMILES: Cc1ccc(NC(=O)Nc2ncc(-c3ccccc3)n2C)cc1Cl)
+From compound 163 (SMILES: CCN(CC)c1cc(C)c2cc(NC(=O)Nc3ccc(Br)cc3)ccc2n1)
+From compound 165 (SMILES: Cl.OC(CNc1ccc(Cl)cc1)CSc1ccc(Cl)cc1)
+From compound 167 (SMILES: Cc1ccc(-n2cnc3ccccc32)cc1)
+From compound 168 (SMILES: CC(C)(C)c1ccc(OCC(O)Cn2c(CO)nc3ccccc32)cc1)
+From compound 171 (SMILES: Cc1ccc2c(c1)c1c(n2CC(O)CNCc2ccccc2)CCCC1)
+From compound 178 (SMILES: OC(CNCc1ccc(Cl)c(Cl)c1)Cn1ccc2ccccc21)
+From compound 179 (SMILES: CC(O)(CNCc1ccc(Cl)cc1)CSc1ccc(Cl)cc1)
+From compound 181 (SMILES: Clc1cc2[nH]c(SCC(=O)C(C)(C)C)nc2cc1Cl)
+From compound 184 (SMILES: Br.Cc1ccc(Sc2ccccc2N2CCNCC2)c(C)c1)
+From compound 192 (SMILES: CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2.Cl)
+From compound 194 (SMILES: O=c1c2CSCc2[nH]c2cc(nn12)c1ccccc1)
+From compound 195 (SMILES: CS(=O)(=O)O.c1cc2c(cc1C1CCCCC1)c1c3n2CCNC3CCC1)
+From compound 196 (SMILES: N1=C(SC([H])([H])c(cc2)ccc2F)C3=C(N(Cc4ccccc4)C1=O)CCC3)
+From compound 197 (SMILES: N1=C(SC([H])([H])c2ccccc2)C3=C(N(Cc4ccccc4)C1=O)CCC3)
+From compound 200 (SMILES: CCn1c(=O)c(C(=O)Nc2nccc(C)n2)c(O)c2ccccc21)
+From compound 201 (SMILES: Cc1ccccc1Nc1nc(Nc2ccccc2)c2cnn(C)c2n1)
+From compound 202 (SMILES: Nc1cc(C(F)(F)F)ccc1Oc1ccc(Cl)cc1Cl)
+From compound 203 (SMILES: c1ccc(Cn2nnc3c(Sc4nc5ccccc5o4)ncnc32)cc1)
+From compound 204 (SMILES: CSC(SC)=C(C#N)C(=O)c1cccc(Cl)c1)
+From compound 206 (SMILES: CCOc1ccc(-c2nc3cc(-c4nc5cc(N6CCN(C)CC6)ccc5[nH]4)ccc3[nH]2)cc1.Cl.Cl.Cl)
+From compound 208 (SMILES: [H][N+]1([H])CCO[B-]1(C1=CC=CC=C1)C1=CC=CC=C1)
+From compound 209 (SMILES: NNc1ccccn1)
+From compound 210 (SMILES: O/N=C/c1ccc(-c2cccs2)s1)
+From compound 214 (SMILES: Cc1nn2c(NCCOCCO)cc(C(C)(C)C)nc2c1-c1ccc(F)cc1)
+From compound 215 (SMILES: N#CSc1ccc(N)cc1)
+From compound 219 (SMILES: Cl.Cl.N=C(NCCCCCCNC(=N)NC(=N)Nc1ccc(Cl)cc1)NC(=N)Nc1ccc(Cl)cc1)
+From compound 221 (SMILES: CC1CCN(c2nc(Cl)nc3ccccc23)CC1)
+From compound 222 (SMILES: CC(C)(c1ccc(O)c(Cl)c1)c1ccc(O)c(Cl)c1)
+From compound 224 (SMILES: Cc1ccc(C(=O)N(CCCN(C)C)c2nc3ccc(Cl)cc3s2)cc1C)
+From compound 225 (SMILES: Cc1sc2nc(C3CCCCC3)nc(N3CCNCC3)c2c1C)
+From compound 226 (SMILES: Cc1ccc(-c2ccc(O)c(C)c2)cc1)
+From compound 228 (SMILES: Cc1ccc(S(=O)(=O)C=CC#N)cc1)
+From compound 229 (SMILES: Cl.N/C(=N\C(=O)c1nc(Cl)c(N)nc1N)NCc1ccc(Cl)cc1Cl)
+From compound 230 (SMILES: Cc1ccc(CNc2nc(C)nc3onc(C)c23)cc1)
+From compound 231 (SMILES: Cc1cc2cccnc2c(c1)C[n+]1nc(sc1N)c1ccccc1)
+From compound 232 (SMILES: S([O-])(O)(=O)=O.[C@@H](NC(=O)c1c(C)c(N)nc([C@H](CC(=O)N)NC[C@@H](N)C(=O)N)n1)(C(=O)N[C@@H](C)[C@H](O)[C@@H](C)C(=O)N[C@@H](C(=O)NCCc2scc(c3scc(C(=O)NCCC[S+](C)C)n3)n2)[C@H](O)C)C(O[C@H]4O[C@H](CO)[C@H](O)[C@@H](O)[C@@]4([H])O[C@H]5O[C@H](CO)[C@@H](O)[C@H](OC(=O)N)[C@@H]5O)c6c[nH]cn6)
+From compound 233 (SMILES: Cl.Oc1cccc(Nc2nc(-c3ccc(F)cc3F)cs2)c1)
+From compound 236 (SMILES: O=C(CCNc1ccccc1)c1cccs1)
+From compound 238 (SMILES: c12c(ccc(C)c1)[nH]c(C(N(C)[C@@H]3CCC[C@@H](Oc4ccccc4)[C@@H]3O)=O)c2CC)
+From compound 240 (SMILES: Cc1noc2ncnc(N3CCC(c4ccccc4)C3)c12)
+From compound 241 (SMILES: Cc1noc2ncnc(N3CCC(C)CC3)c12)
+From compound 243 (SMILES: O=C(O)c1c(-c2ccccc2)nn(-c2ccccc2)c1O)
+From compound 244 (SMILES: Cc1cccc2sc(N(CCCN(C)C)C(=O)c3ccccc3Cl)nc12)
+From compound 247 (SMILES: Nc1ccc(Sc2ccccc2Cl)cc1)
+From compound 248 (SMILES: Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1)
+From compound 249 (SMILES: c(cccc1)([C@H](NC)CC[C@H]2c3cc(Cl)c(Cl)cc3)c12.Cl)
+From compound 250 (SMILES: CCCCc1ccc(-c2csc(N)n2)cc1)
+From compound 251 (SMILES: Cc1ccc(-c2ccc(C(=O)O)cc2)cc1)
+From compound 252 (SMILES: c1(C(CCN2)C2)c3c([nH]n1)nccn3)
+From compound 254 (SMILES: c1nc(N2CCCCCC2)c2ccsc2n1)
+From compound 256 (SMILES: CNC(=O)c1sc(=S)n(Cc2ccccc2)c1N)
+From compound 257 (SMILES: CC(C)(C)c1csc(=S)n1CCc1ccccn1)
+From compound 258 (SMILES: c1(cc(c2s1)cccc2)c3ccn([H])n3)
+From compound 262 (SMILES: Nc1[nH]nc(c1)c1cc(c2ccccc2)c(s1)C(F)(F)F)
+From compound 264 (SMILES: Nc1nc2cc(Cl)c(OC(F)(F)F)cc2s1)
+From compound 266 (SMILES: Cc1csc2ncnc(N3CCCCC3)c12)
+From compound 267 (SMILES: Cc1nn2c(N3CCN(C)CC3)cc(C(C)(C)C)nc2c1-c1ccc(F)cc1)
+From compound 270 (SMILES: Cc1ccc(Cn2c(=O)n3nc(-c4ccccc4)nc3c3ccccc32)cc1)
+From compound 274 (SMILES: n1c2c([nH]c1SCCOc3ccccc3)ccc(Cl)c2)
+From compound 275 (SMILES: CCc1c(C)nc2ncnn2c1NCc1ccc(C)cc1)
+From compound 276 (SMILES: COc1ccc2c(c1)C=CC(=NO)C2=O)
+From compound 277 (SMILES: Cc1ccc(Nc2nc3nonc3nc2Nc2ccccc2F)cc1Cl)
+From compound 278 (SMILES: CC(C)(C)C1CCc2nc(N)sc2C1)
+From compound 279 (SMILES: Nc1nc2ccc(OC(F)(F)F)c(Cl)c2s1)
+From compound 283 (SMILES: COC(=O)c1[nH]c2cscc2c(=O)c1C(=O)OC)
+From compound 284 (SMILES: C=CCN1C(=O)/C(=C/C(=O)OCC)c2ccccc21)
+From compound 285 (SMILES: CCOC(=O)C1CCN(c2ncnc3scc(C)c23)CC1)
+From compound 287 (SMILES: [H][C@]12C[C@](O)(C(=O)OC)[C@](C)(O1)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=C(C=CC=C5)N2C4=C13)
+From compound 289 (SMILES: CSC(=S)Nc1ccc(NC(C)=O)cc1)
+From compound 290 (SMILES: CSC(=S)Nc1ccc(Br)cc1)
+From compound 291 (SMILES: Clc1cccc(Nc2nnns2)c1Cl)
+From compound 293 (SMILES: c1ccc(CCNc2ncnc3ccsc23)cc1)
+From compound 294 (SMILES: O=C(Nc1ccc(F)c(Cl)c1)c1ccc(Nc2ccnc(-c3ccc(F)cc3)n2)cc1)
+From compound 295 (SMILES: Cc1cc(S(=O)(=O)Nc2ccc(F)c(Cl)c2)cc(C)c1F)
+From compound 296 (SMILES: Cc1nc2c(c(Nc3cccc(Cl)c3)n1)CCC2)
+From compound 297 (SMILES: CCc1ccc(OCc2ccccc2C(=O)Nc2ccc3nc(C)cc(N)c3c2)cc1.Cl)
+From compound 300 (SMILES: CCCSc1ccc2[nH]c(NC(=O)C)nc2c1)
+From compound 302 (SMILES: N1C(=O)[C@H](CCN)NC(=O)[C@H](CCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](NC(=O)[C@H](CCN)NC(=O)[C@H](CCNC(=O)[C@]1([H])[C@@H](C)O)NC(=O)[C@H](CCN)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCN)NC(CCCC(C)CC)=O)CC(C)C.S(O)(O)(=O)=O)
+From compound 303 (SMILES: CC(C)(C)c1nn(-c2ccccc2)c2nc(Cl)c(CNC3CCCC3)cc12)
+From compound 305 (SMILES: Clc1ccc(CNc2cc(-c3ccccc3)ncn2)cc1)
+From compound 306 (SMILES: c1cc2n(c(C=NN(C)S(=O)(=O)c3cc([N+]([O-])=O)ccc3C)cn2)cc1Br.Cl)
+From compound 307 (SMILES: CCc1ccc(-c2nc3ccccn3c2CNCc2cccc(C)c2)cc1)
+From compound 308 (SMILES: CCc1ccc(-c2nc3ccccn3c2CNCc2ccc(C)cc2)cc1)
+From compound 319 (SMILES: Cc1nc(NCCC2=CCCCC2)c2c(C)noc2n1)
+From compound 320 (SMILES: CCc1noc2ncnc(NCCC3=CCCCC3)c12)
+From compound 321 (SMILES: CCc1noc2nc(C)nc(NCCC3=CCCCC3)c12)
+From compound 322 (SMILES: Cl.NCCOCCOCCNC(=O)Cc1ccc(Nc2nc(NCc3ccc(F)cc3)nc(NCC3CCCCC3)n2)cc1)
+From compound 325 (SMILES: O=C(Nc1ccc(Br)c(C(F)(F)F)c1)c1cccs1)
+From compound 326 (SMILES: Cc1nn2c(NCCN(C)C)cc(C(C)(C)C)nc2c1-c1ccc(F)cc1)
+From compound 327 (SMILES: Cc1nc(NCc2ccccc2)c2c(C)noc2n1)
+From compound 329 (SMILES: CCC(C)Nc1ncnc2sccc12)
+From compound 330 (SMILES: O=C(NNc1ccccc1)c1ccncc1)
+From compound 331 (SMILES: S(=O)(=O)([O-])c1cc(c(O)c2c1cccn2)I.[Na+])
+From compound 332 (SMILES: O=C(Sc1ccccn1)c1cnn(-c2ccccc2)c1C(F)(F)F)
+From compound 334 (SMILES: Cl.Cl.N=C(NCCCCCCNC(=N)NC(=N)Nc1ccc(Cl)cc1)NC(=N)Nc1ccc(Cl)cc1)
+From compound 335 (SMILES: c12c(cccc1)[C@@](CC[C@@]2([H])c3ccc(Cl)c(Cl)c3)([H])NC.Cl)
+From compound 337 (SMILES: O=C1CS/C(=C/c2nc3ccccc3[nH]2)/N1)
+From compound 338 (SMILES: Cc1ccc(C=C2CCCC(CN(C)C)C2=O)cc1.Cl)
+From compound 341 (SMILES: Cc1ccc(O)c(C(=O)CC(=O)c2cccs2)c1)
+From compound 351 (SMILES: C1CCC(CC1)C2=CC3=C(C=C2)[N]4CCNC5CCCC3=C45)
+From compound 354 (SMILES: O=C(C=Cc1ccc2ccccc2n1)c1ccncc1)
+From compound 355 (SMILES: CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O)
+From compound 357 (SMILES: CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21.Cl)
+From compound 358 (SMILES: c1(Br)nc(C=C(C#N)C(=O)N[C@@H](CCC)c2ccccc2)ccc1)
+From compound 359 (SMILES: CN(C)CC1COc2ccccc2C1=O.Cl)
+From compound 360 (SMILES: Cc1ccc(-c2ccc(O)cc2)cc1)
+From compound 362 (SMILES: Cl.Cl.N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1)
+From compound 363 (SMILES: Cc1csc2sc(c3n[nH]cc3)c(C)c12)
+From compound 364 (SMILES: Cc1ccc2c(c1)C1CN(C)CCC1N2Sc1ccc(Cl)cc1)
+From compound 365 (SMILES: CCNc1nc2ccc(Cl)cc2nc1NCC)
+From compound 366 (SMILES: c1ncc(c2cc(\C(=C\c3[nH]ccc3)\C(=O)N4)c4cc2)cc1.CS(O)(=O)=O)
+From compound 367 (SMILES: c1ccc(CCNc2nnns2)cc1)
+From compound 368 (SMILES: C(=N\n1cnnc1)\c1ccc(N(c2ccccc2)c2ccccc2)cc1)
+From compound 370 (SMILES: Clc1ccc(CCNc2ncnc3sccc23)cc1)
+From compound 375 (SMILES: CC(C)CCNCC(O)Cn1c2ccc(Br)cc2c2cc(Br)ccc21)
+From compound 382 (SMILES: C=C(C)c1ccccc(=O)c1O)
+From compound 384 (SMILES: CC1SC(=S)NN1c1ccccc1)
+From compound 386 (SMILES: CCCn1cnc2cc(NCc3ccc(C)cc3)ccc21)
+From compound 387 (SMILES: c1(ccccc1S[Hg]CC)C(=O)[O-].[Na+])
+From compound 388 (SMILES: O=C1/C(=C/c2ccccc2)COc2ccccc21)
+From compound 391 (SMILES: O=C1c2ccccc2-c2nc3nnnn3nc21)
+From compound 394 (SMILES: C=CCn1c(=O)c(C(=O)Nc2nccs2)c(O)c2ccccc21)
+From compound 395 (SMILES: CSC1=NNC(c2ccccn2)S1)
+From compound 396 (SMILES: CCOc1ccc(NC(=O)C2CCCN2S(=O)(=O)c2ccc(OCC)cc2)cc1)
+From compound 398 (SMILES: Cc1ccc(SC#N)c(N)n1)
+From compound 400 (SMILES: N#CSc1c(Cl)nc2sccn12)
+From compound 401 (SMILES: O/N=C/C1=C(Cl)c2ccccc2CC1)
+From compound 404 (SMILES: O=C(Sc1cccc2cccnc12)c1ccccc1)
+From compound 406 (SMILES: Cc1cc(C)cc(Oc2ccccc2/C=N\O)c1)
+From compound 409 (SMILES: CCCCC(CC)CN1CN(CC(CC)CCCC)CC(C)(N)C1)
+From compound 411 (SMILES: CN1c2cc3c(cc2N=C(c2ccc(C(=O)O)cc2)c2ccccc21)C(C)(C)CCC3(C)C)
+From compound 412 (SMILES: c1c(F)c(Nc2n[nH]c(C)c2)nc(N[C@@H](C)c3ccc(F)cc3)c1C#N)
+From compound 413 (SMILES: [Ru]([NH3+])([NH3+])(O[Ru]([NH3+])(O[Ru]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+])([NH3+])([NH3+])[NH3+])([NH3+])([NH3+])[NH3+].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-])
+From compound 418 (SMILES: c(s1)(\C=C\C=C(\N(C)c(c23)cccc2)/C3(C)C)[n+](CC)c(cccc4)c14.[I-])
+From compound 419 (SMILES: CN1C2=CC=C(C=C2N=C(C3=CC=C(C=C3)C(O)=O)C4=CC5=C(C=C14)C(C)(C)CCC5(C)C)[N+]([O-])=O)
+From compound 422 (SMILES: Nc1ccc2ncnc(NCCc3ccc(Oc4ccccc4)cc3)c2c1)
+From compound 423 (SMILES: O=C(OC)C#CC1=CC=C([N+]([O-])=O)C=C1)
+From compound 424 (SMILES: c1(c2c([nH]c1)cccc2)C(=O)Nc3ccccc3OC)
+From compound 425 (SMILES: N[C@@H](CC1=CC=C(C2=NC(N)=NC(OC(C3=CC=C(C4=CC=CC(F)=C4)C=C3)C(F)(F)F)=C2)C=C1)C(O)=O)
+From compound 427 (SMILES: Oc1ccc(-c2c(-c3ccccc3)nn3c(C(F)(F)F)cc(C(F)(F)F)nc23)cc1)
+From compound 428 (SMILES: N#CSCC(=O)c1ccccc1)
+From compound 429 (SMILES: S=C=Nc1ccc(N=C=S)cc1)
+From compound 430 (SMILES: c1cc2c(n([C@H](COc3ccc(c4nc5c(cccc5)n4Cc6ccccc6)cc3)C7CCNCC7)c(c8ccccc8)n2)cc1)
+From compound 432 (SMILES: Cn1ncc(S(=O)(=O)Cc2ccccc2)c(Br)c1=O)
+From compound 434 (SMILES: CC(C)NCC(O)Cn1c2ccc(Cl)cc2c2cc(Cl)ccc21)
+From compound 436 (SMILES: Cc1ccc(Sc2cccc3nc(N)nc(N)c23)cc1)
+From compound 437 (SMILES: c1c(Cl)c2c(C=C([C@@H](Nc3c4c([nH]cn4)ncn3)C)N(c5ccccc5)C2=O)cc1)
+From compound 438 (SMILES: CCOC(=O)c1c(-c2ccccc2)nc2ccccn12)
+From compound 439 (SMILES: CNCc1ccc(C)c(NC(=O)c2ccc(Nc3nc(-c4ccccc4)c4ccccc4n3)cc2)c1)
+From compound 440 (SMILES: CC(=O)Oc1ccc(Cl)c2cccnc12)
+From compound 442 (SMILES: Cc1cc(N2CCN(C)CC2)nc2ccc(NC(=O)Nc3cccc(Cl)c3)cc12)
+From compound 443 (SMILES: Cc1ccc(C)c(-n2sc3cc(F)ccc3c2=O)c1)
+From compound 445 (SMILES: n1c(c2cc(F)ccc2[C@H]3Cc4c(c(C)nc(N)n4)C(=O)N3)cccc1OC)
+From compound 446 (SMILES: c1(c2ccc(cc2)Cl)c3c(n[nH]1)CCCC3)
+From compound 447 (SMILES: NC(=O)c1cnc(NCCc2ccc(O)c(Cl)c2)nc1NCc1ccccc1)
+From compound 448 (SMILES: O=C(NNc1nc2cc(F)ccc2n2cccc12)c1cnccn1)
+From compound 449 (SMILES: Cc1nc(-c2ccc(-c3ccc(C(=O)N4CCc5cc6c(cc54)C4(CCN(C)CC4)CO6)cc3)c(C)c2)no1.Cl)
+From compound 451 (SMILES: CCCCCCCCCOc1ccc2[nH]cc(CCN)c2c1.Cl-)
+From compound 452 (SMILES: Nc1nc2ccc(Oc3ccccc3)cc2s1)
+From compound 454 (SMILES: C=CCN(C)CCCCCCOc1ccc(C(=O)c2ccc(Br)cc2)c(F)c1)
+From compound 455 (SMILES: c1(NC(OC)=O)[nH]c(c2n1)ccc(SC(C)C)c2)
+From compound 459 (SMILES: CS(=O)(=O)O.O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1)
+From compound 462 (SMILES: N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1.O=[SH](=O)OCCO.O=[SH](=O)OCCO)
+From compound 464 (SMILES: C=CCN(C)CCCCCCOc1ccc(C(=O)c2ccc(Br)cc2)c(F)c1.O=C(O)/C=C/C(=O)O)
+From compound 465 (SMILES: Nc1nc2ccccc2cc1-c1cccs1)
+From compound 466 (SMILES: Cc1nn(C)c(Nc2ccc(Br)cc2)c1Br)
+From compound 468 (SMILES: CCCOc1ccccc1NC(=O)/C=C\C(N)=O)
+From compound 469 (SMILES: Cc1nc2ccccc2cc1OCc1ccccc1)
+From compound 472 (SMILES: Nc1nc(-c2ccc3c(c2)CCCC3)cs1)
+From compound 474 (SMILES: O=C1c2sc3nc4n(c(=O)c3c2CCC1Br)CCCCC4)
+From compound 475 (SMILES: CC(N)O.Cc1cc(CC(C)CC(C)(C)C)n(O)c(=O)c1)
+From compound 476 (SMILES: c1cc(c(Nc2n[nH]c(C)c2)nc(c3ccccc3)n4)c4cc1)
+From compound 478 (SMILES: CN[C@@H]1C[C@H](c2ccccc12)c3ccc(Cl)c(Cl)c3.Cl-)
+From compound 481 (SMILES: [nH](c1c(c2)nc(C)cc2)c(C(C)(C)C)nc1c3cc(nccn4)c4cc3)
+From compound 482 (SMILES: NCCOB(c1ccccc1)c1ccccc1)
+From compound 484 (SMILES: CCC(C)SSc1ncc[nH]1)
+From compound 485 (SMILES: CC(C)CCOc1cccc(OCC(=O)Nc2ccncc2)c1)
+From compound 486 (SMILES: Cc1ccc(cc1S(=O)(=O)N(C)/N=C\c2cnc3n2cc(cc3)Br)[N+](=O)[O-])
+From compound 488 (SMILES: O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1)
+From compound 492 (SMILES: [Cl-].Brc1ccc(cc1)c1nn(cc1CSC(=[NH+])N)c1ccccc1)
+From compound 494 (SMILES: N#Cc1nccnc1S(=O)(=O)c1cccs1)
+From compound 495 (SMILES: c1(cc(Cl)cc(Cl)c1[O-])Sc2cc(Cl)cc(Cl)c2[O-].[Na+].[Na+])
+From compound 497 (SMILES: Cc1ccc(S(=O)(=O)/C=C/C#N)cc1)
+From compound 498 (SMILES: CC(C)(C)c1ccc(S(=O)(=O)/C=C/C#N)cc1)
+From compound 499 (SMILES: n1c(C[C@]2(C(O)=O)CC[C@H](Oc3cccc(Cl)c3F)CC2)cccc1Nc4nccs4)
+From compound 500 (SMILES: C1([C@H](CC)Cc(cc(O)cc2)c23)=C3[C@H](CC)Cc(cc(O)cc4)c14)
+From compound 501 (SMILES: [N]1(=CC=CCC1=S)O[Zn]ON2C=CC=CC2=S)
+From compound 502 (SMILES: CC(C)(O)CC(=O)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21)
+From compound 508 (SMILES: Oc1c(Br)cc(Br)c2cccnc12)
+From compound 510 (SMILES: COc1c(C)cnc(Cn2cnc3c(Cl)nc(N)nc32)c1C)
+From compound 511 (SMILES: c1cccc(N(\C=C\c2[n+](CC)c(cc(c3nc(cccc4)c4s3)cc5)c5n2c6ccccc6)C)c1.[I-])
+From compound 513 (SMILES: CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2OC)ncc1Cl)
+From compound 514 (SMILES: CCCCC(CC)CNC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)NCC(CC)CCCC.Cl.Cl)
+From compound 517 (SMILES: O=C1c2ccccc2-c2n[nH]c3cccc1c23)
+From compound 518 (SMILES: c1ccc(-c2cccc(-c3ccccn3)n2)nc1)
+From compound 522 (SMILES: O=C(O)c1ccc(Nc2ncc3c(n2)-c2ccc(Cl)cc2C(c2c(F)cccc2F)=NC3)cc1)
+From compound 523 (SMILES: Oc1c(I)cc(Cl)c2cccnc12)
+From compound 525 (SMILES: OCCCNc1cc(-c2ccnc(Nc3cccc(Cl)c3)n2)ccn1)
+From compound 527 (SMILES: O=C1NCC/C(=N\Nc2cccnc2)c2c1[nH]c1ccc(Cl)cc21)
+From compound 528 (SMILES: c1(\C=N\NC(NCCCCC)=N)c[nH]c(ccc(OC)c2)c12.C(O)(=O)\C=C\C(O)=O)
+From compound 531 (SMILES: O=C(NCc1ccc(Oc2ccccc2)cc1)c1nc(-c2cc(Br)c(O)c(Br)c2)no1)
+From compound 533 (SMILES: c12c(cnn1Cc3cccs3)[nH]c(c4c(F)cc(cc4F)OC)n2)
+From compound 535 (SMILES: c1(c2cc(C)ccc2O)cc([nH]n1)c3ccc(cc3)OC)
+From compound 536 (SMILES: CCCCCN=C(N)NN=Cc1c[nH]c2ccc(OC)cc12.OC(=O)/C=C\C(=O)O)
+From compound 537 (SMILES: NC(=O)c1c(/N=C\C(Br)=C\c2ccccc2)sc2c1CCC2)
+
